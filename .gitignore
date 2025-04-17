@@ -1,0 +1,8 @@
+venv
+face_recognition/
+Previous/
+dataset/anand
+dataset/shubham
+test_images/anand_test.jpg
+test_images/shubham_test.jpg
+test_images/satyajeet_test.jpg
