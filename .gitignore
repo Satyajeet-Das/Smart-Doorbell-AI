@@ -1,6 +1,10 @@
 venv
 face_recognition/
 Previous/
+.venv
+logs/
+visitors/
+__pycache__/
 dataset/anand
 dataset/shubham
 test_images/anand_test.jpg
